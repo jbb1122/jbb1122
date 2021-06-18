@@ -71,6 +71,6 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="100"></td>
    </tr>
   </table>
-
+<!-- 
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=winner108&show_icons=true&theme=monokai&count_private=true">
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ry&layout=compact&theme=monokai&count_private=true">
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ry&layout=compact&theme=monokai&count_private=true"> -->
